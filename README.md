@@ -1,4 +1,4 @@
-Hola, mi nombre es Cristian Chavez, tengo 25 años (2024) soy estudiante de Ingenieria en Sistemas en la Universidad Industrial de Santander (UIS).
+# Hola, mi nombre es Cristian Chavez, tengo 25 años (2024) soy estudiante de Ingenieria en Sistemas en la Universidad Industrial de Santander (UIS).
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -40,5 +40,3 @@ Hola, mi nombre es Cristian Chavez, tengo 25 años (2024) soy estudiante de Inge
   <p align="center">
   <a target="_blank" href="https://buymeacoffee.com/crisdejchav"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
 </p>
-
-  
